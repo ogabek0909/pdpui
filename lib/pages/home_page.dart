@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
             Text(
-              'USER',
+              'User',
               style: TextStyle(
                 fontSize: 27,
                 color: Colors.red,
@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
               width: 12,
             ),
             Text(
-              'INTERFACE',
+              'Interface',
               style: TextStyle(
                 fontSize: 27,
                 color: Colors.green,
